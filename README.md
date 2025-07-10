@@ -83,23 +83,5 @@ OpenAI API (optional for AI capabilities)
 
  Multi-language support
 
-🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-👩‍💻 Authors
-Your Name – @Rutuja1011G
 
 
