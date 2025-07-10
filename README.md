@@ -31,7 +31,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/<Rutuja1011G/VirtualAssistant.git
+git clone https://github.com/Rutuja1011G/VirtualAssistant.git
 
 # Navigate to the project directory
 cd virtual-assistant
